@@ -15,7 +15,7 @@ export function IniciarSesionPage() {
   const handleLogin = (e) => {
     e.preventDefault();
 
-    if (email === "panel@gmail.com" && password === "123333") {
+    if (email === "amigos@gmail.com" && password === "cascada1234") {
       loginAsAdmin();
       navigate("/");
     } else {
