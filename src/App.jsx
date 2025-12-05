@@ -26,7 +26,11 @@ function App() {
         alt="Logo Torneos" 
         className="w-10 h-10 object-cover rounded-full"
       />
-      <h1 className="text-lg font-bold">Gestión de Torneos - Celendín</h1>
+<h1 className="text-lg font-bold uppercase transition-all duration-300 hover:text-amber-300 hover:scale-105 hover:drop-shadow-[0_0_8px_rgba(255,193,7,0.7)]">
+  GESTIÓN DE TORNEOS - CELENDÍN
+</h1>
+
+
     </Link>
 
 {/* MENU */}
