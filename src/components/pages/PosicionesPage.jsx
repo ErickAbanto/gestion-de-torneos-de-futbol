@@ -65,7 +65,7 @@ function PosicionesPage() {
             onClick={() => setTorneoSeleccionado(null)}
             className="mb-4 bg-gray-300 hover:bg-gray-400 px-4 py-2 rounded-lg"
           >
-            ← Volver
+            Volver
           </button>
 
           <h3 className="text-2xl font-semibold mb-4 flex items-center gap-2 text-blue-800">
